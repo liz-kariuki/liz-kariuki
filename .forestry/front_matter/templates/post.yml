@@ -1,0 +1,15 @@
+---
+label: Post
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    display_utc: true
+  default: now
+pages:
+- content/posts/lorem-ipsum.md

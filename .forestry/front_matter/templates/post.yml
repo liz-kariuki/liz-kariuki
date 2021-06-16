@@ -11,5 +11,11 @@ fields:
   config:
     display_utc: true
   default: now
+- name: enter_text_here
+  type: text
+  config:
+    required: false
+  label: Enter Text Here
+  description: enter
 pages:
 - content/posts/lorem-ipsum.md

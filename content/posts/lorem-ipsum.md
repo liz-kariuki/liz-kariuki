@@ -1,6 +1,6 @@
 ---
 title: "Lorem Ipsum"
-date = 2021-06-16T15:41:48Z
+date : 2021-06-16T15:41:48Z
 draft: false
 ---
 
